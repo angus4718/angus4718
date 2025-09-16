@@ -4,7 +4,7 @@ Hi 👋 My name is Angus!
 MS Computational Finance @ Carnegie Mellon University
 -----------------------------------------------------
 
-Welcome to my GitHub! I am currently pursuing a Master of Science in Computational Finance at Carnegie Mellon University. I also hold a Bachelor of Science in Quantitative Finance with a minor in Mathematics from the Chinese University of Hong Kong, graduating with First Class Honors and a GPA of 3.8/4.0.
+Welcome to my GitHub! I am currently pursuing a Master of Science in Computational Finance at Carnegie Mellon University. I also hold a Bachelor of Science in Quantitative Finance with a minor in Mathematics from the Chinese University of Hong Kong, graduating with First Class Honors.
 
 I am passionate about quantitative finance and applying mathematical and computational techniques to solve real-world problems. My repositories showcase projects ranging from trading strategies and financial modeling to algorithmic problem-solving and educational tools.
 
