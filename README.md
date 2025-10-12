@@ -1,14 +1,14 @@
-Hi 👋 My name is Angus!
+Hi, my name is Angus!
 ==============================
 
 MS Computational Finance @ Carnegie Mellon University
 -----------------------------------------------------
 
-Welcome to my GitHub! I am currently pursuing a Master of Science in Computational Finance at Carnegie Mellon University. I also hold a Bachelor of Science in Quantitative Finance with a minor in Mathematics from the Chinese University of Hong Kong, graduating with First Class Honors.
+I am currently pursuing a Master of Science in Computational Finance at Carnegie Mellon University. I also hold a Bachelor of Science in Quantitative Finance with a minor in Mathematics from the Chinese University of Hong Kong, graduating with First Class Honors.
 
 I am passionate about quantitative finance and applying mathematical and computational techniques to solve real-world problems. My repositories showcase projects ranging from trading strategies and financial modeling to algorithmic problem-solving and educational tools.
 
-✉️ Feel free to reach out to me at [anguschunhin@gmail.com](mailto:anguschunhin@gmail.com).
+Contact: [anguschunhin@gmail.com](mailto:anguschunhin@gmail.com).
 
 ### Featured Projects
 Here are some of my notable projects:
@@ -30,7 +30,7 @@ Here are some of my notable projects:
 
 ---
 
-### 🌐 Socials
+### Socials
 
 <p align="left">
   <a href="https://github.com/angus4718" target="_blank" rel="noreferrer">
