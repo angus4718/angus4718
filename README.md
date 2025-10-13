@@ -14,7 +14,7 @@ Contact: [anguschunhin@gmail.com](mailto:anguschunhin@gmail.com).
 Here are some of my notable projects:
 
 - **[IMC Prosperity 3](https://github.com/angus4718/imc-prosperity-3-public)**  
-  Ranked **28th in algorithmic trading** and **44th overall**, this project showcases advanced trading strategies developed during the IMC competition.
+  Ranked **28th in algorithmic trading** out of 12,621 teams, this project showcases trading strategies developed during the IMC competition.
 
 - **[Pair Trading](https://github.com/angus4718/pair-trading)**  
   Implementation of a cointegration-based pair trading strategy enhanced by DCC-eGARCH volatility clustering and portfolio weight optimization.
