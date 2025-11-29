@@ -1,17 +1,14 @@
-Hi, my name is Angus!
+Hi, I'm Angus!
 ==============================
 
-MS Computational Finance @ Carnegie Mellon University
------------------------------------------------------
+MS Computational Finance @ Carnegie Mellon University  
+BSc Quantitative Finance (Minor in Mathematics) @ The Chinese University of Hong Kong
 
-I am currently pursuing a Master of Science in Computational Finance at Carnegie Mellon University. I also hold a Bachelor of Science in Quantitative Finance with a minor in Mathematics from the Chinese University of Hong Kong, graduating with First Class Honors.
-
-I am passionate about quantitative finance and applying mathematical and computational techniques to solve real-world problems. My repositories showcase projects ranging from trading strategies and financial modeling to algorithmic problem-solving and educational tools.
+I build projects ranging from trading strategies and financial modeling to algorithmic problem-solving and educational tools.
 
 Contact: [anguschunhin@gmail.com](mailto:anguschunhin@gmail.com).
 
 ### Featured Projects
-Here are some of my notable projects:
 
 - **[IMC Prosperity 3](https://github.com/angus4718/imc-prosperity-3-public)**  
   Ranked **28th in algorithmic trading** out of 12,621 teams, this project showcases trading strategies developed during the IMC competition.
@@ -28,18 +25,15 @@ Here are some of my notable projects:
 - **[ATV Factor Model](https://github.com/angus4718/atv-factor)**  
   Implementation of the Abnormal Trading Volume (ATV) Trading Factor, inspired by behavioral finance research.
 
+### Personal
+Poker, guitar, metal music  
+Native in Chinese (Cantonese and Mandarin)
+
 ---
 
 ### Socials
 
 <p align="left">
-  <a href="https://github.com/angus4718" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
   <a href="https://www.linkedin.com/in/anguscheung" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
