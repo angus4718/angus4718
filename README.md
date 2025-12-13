@@ -10,6 +10,9 @@ Contact: [anguschunhin@gmail.com](mailto:anguschunhin@gmail.com).
 
 ### Featured Projects
 
+- **[Stable Portfolio Compression](https://github.com/angus4718/stable-portfolio-compression/)**
+  Tree-based basis selection plus local Ridge regression to compress large indices into a small set of representative basis assets. Includes MST-based selection, expanding-window Ridge, weight mapping, and time series backtests.
+
 - **[IMC Prosperity 3](https://github.com/angus4718/imc-prosperity-3-public)**  
   Ranked **28th in algorithmic trading** out of 12,621 teams, this project showcases trading strategies developed during the IMC competition.
 
@@ -27,7 +30,7 @@ Contact: [anguschunhin@gmail.com](mailto:anguschunhin@gmail.com).
 
 ### Personal
 Poker, guitar, metal music  
-Native in Chinese (Cantonese and Mandarin)
+Hong Kong
 
 ---
 
