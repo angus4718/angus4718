@@ -10,7 +10,7 @@ Contact: [anguschunhin@gmail.com](mailto:anguschunhin@gmail.com).
 
 ### Featured Projects
 
-- **[Stable Portfolio Compression](https://github.com/angus4718/stable-portfolio-compression/)**
+- **[Stable Portfolio Compression](https://github.com/angus4718/stable-portfolio-compression/)**  
   Tree-based basis selection plus local Ridge regression to compress large indices into a small set of representative basis assets. Includes MST-based selection, expanding-window Ridge, weight mapping, and time series backtests.
 
 - **[IMC Prosperity 3](https://github.com/angus4718/imc-prosperity-3-public)**  
