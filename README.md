@@ -22,12 +22,6 @@ Contact: [anguschunhin@gmail.com](mailto:anguschunhin@gmail.com).
 - **[Derivative Pricing](https://github.com/angus4718/derivative-pricing)**  
   Implementation of a Monte Carlo simulation to determine the optimal coupon rate for a Step-Up Autocallable Note. This project demonstrates financial engineering and modeling techniques.
 
-- **[Market-Making Simulation Game](https://github.com/angus4718/market-making-simulation-game)**  
-  A Python-based simulation game where players compete against bots in a trading scenario.
-
-- **[ATV Factor Model](https://github.com/angus4718/atv-factor)**  
-  Implementation of the Abnormal Trading Volume (ATV) Trading Factor, inspired by behavioral finance research.
-
 ### Personal
 Poker, guitar, metal music  
 Hong Kong
